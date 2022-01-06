@@ -1,2 +1,2 @@
 # ecommerce_spring
-Esse projeto foi desenvolvido utilizando Spring com Java
+Esse projeto foi desenvolvido utilizando Spring com Java e html 5, ele se tratar de sistema de comercio eletrônico um ecommerce, aonde esse sistema possui as seguintes funcionalidades uma api exclusiva apenas para pagamento outra para visualizar os produtos selecionados é por ultima a parte de front-end, nesse projeto foi utilizado todos os padrões de engenharia de software é de qualidade, como profissional esse projeto foi um dos maiores desafio que eu já encontrei é com isso me torno um profissional cada vez mais experiente é isso que motivar até hoje continuar estudando é trabalhado no mercado de tecnologia.
